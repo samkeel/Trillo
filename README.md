@@ -12,8 +12,8 @@ To run Trillo:
 
 Trillo Mobile:
 
-![alt text](https://github.com/vectors36/Trillo/tree/main/img/trillo-mobile.png "Trillo Mobile")
+![alt text](https://raw.githubusercontent.com/vectors36/Trillo/main/img/trillo-mobile.png "Trillo Mobile")
 
 Trillo Desktop:
 
-![alt text](https://github.com/vectors36/Trillo/tree/main/img/trillo-desktop.png "Trillo Desktop")
+![alt text](https://raw.githubusercontent.com/vectors36/Trillo/main/img/trillo-desktop.png "Trillo Desktop")
